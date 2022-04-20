@@ -1,0 +1,3 @@
+## Welcome to Big Boost
+
+Big Boost is a simple repo with a Jupyter notebook explaining how to use Dask, Zarr, and XGBoost together. It also comes with a Docker image running an extremely basic app that makes use of the model. While this docker image is available [here](https://hub.docker.com/r/chadgueli/deploy-boost), the Dockerfile and everything necessary to make the image are available in this repo.
